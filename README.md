@@ -47,10 +47,10 @@ twenty years ago, convinced me that the *Kano model*[^1] is both a
 useful and practical way of incorporating the view of users into the
 product development process.
 
-![Photo by
+![](assets/img/chris-haws-dU5nKVhgZBc-unsplash.jpg) *(Photo by
 <a href="https://unsplash.com/@therook?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris
 Haws</a> on
-<a href="https://unsplash.com/s/photos/80s-car?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.](assets/img/chris-haws-dU5nKVhgZBc-unsplash.jpg)
+<a href="https://unsplash.com/s/photos/80s-car?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.)*
 
 The example I would like to tell you about is from the car industry.
 Specifically, it is the noise a car door makes when we close it. These
@@ -60,10 +60,10 @@ sat in a car from the late 1970s or early 1980s, that is the time the
 doors typically did not close silently. The opposite in fact. They would
 make all sorts of noises.
 
-![Photo by
+![](assets/img/markus-spiske-_Prexn5cQAI-unsplash.jpg) *(Photo by
 <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus
 Spiske</a> on
-<a href="https://unsplash.com/s/photos/car-door?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.](assets/img/markus-spiske-_Prexn5cQAI-unsplash.jpg)
+<a href="https://unsplash.com/s/photos/car-door?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.)*
 
 Because it was common for a car door not to close silently, this did not
 surprise users. It’s what they expected. In other words, it constituted
@@ -141,9 +141,11 @@ with the potential to delight customers becomes, over time, a *must-be*
 (or “essential”) requirement to satisfy what has since developed into a
 basic need.[^2]
 
-![Description of how attributes values change over time in the Kano
+![](assets/img/Kano_model_showing_transition_over_time.png)
+
+*(Description of how attributes values change over time in the Kano
 model. (Source:
-[Craigwbrown/Wikipedia](https://commons.wikimedia.org/wiki/File:Kano_model_showing_transition_over_time.png).)](assets/img/Kano_model_showing_transition_over_time.png)
+[Craigwbrown/Wikipedia](https://commons.wikimedia.org/wiki/File:Kano_model_showing_transition_over_time.png).))*
 
 The terminology used in this illustration is an example of taking the
 perspective of consumers rather than developers:
@@ -182,9 +184,10 @@ of both theoretical and practical considerations when designing *Kano
 questionnaires*, Berger et al. (1993) discuss a number of different
 answer sets (pp. 25-7), three of which are shown below.
 
-![Different answer sets used in Kano questionnaires. (Source: Adapted
-from Berger et al. 1993,
-25–27.)](assets/img/Kano-questionnaire-answer-sets.png)
+![](assets/img/Kano-questionnaire-answer-sets.png)
+
+*(Different answer sets used in Kano questionnaires. (Source: Adapted
+from Berger et al. 1993, 25–27.))*
 
 They conclude that the choice of answer sets matters, which means that
 results may change depending on how answer options are worded. For
@@ -218,8 +221,8 @@ indicates that respondents may have found it difficult to classify an
 attribute (Nilsson‐Witell and Fundin 2005, 161) and/or may have
 misunderstood the questions (Löfgren and Witell 2008, 62).
 
-![Example of a Kano evaluation table. (Source: Berger et al. 1993,
-6.)](assets/img/Kano-evaluation-table-example.png)
+![](assets/img/Kano-evaluation-table-example.png) *(Example of a Kano
+evaluation table. (Source: Berger et al. 1993, 6.))*
 
 In the traditional evaluation table, only the two extreme positions are
 coded as questionable (`Q`). A modified evaluation table is described by
