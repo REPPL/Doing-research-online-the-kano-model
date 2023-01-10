@@ -96,9 +96,7 @@ Quality](#kanos-theory-of-attractive-quality).
 What is now commonly referred to as the [Kano
 model](https://en.wikipedia.org/wiki/Kano_model) is a theory and
 accompanying methodology to operationalise it (Löfgren and Witell 2008,
-59).
-
-Here, multidimensionality refers to the distinction between
+59). Here, multidimensionality refers to the distinction between
 *satisfaction* and *dissatisfaction* caused by product or service
 attributes on the one hand, and, on the other hand, the degree with
 which these attributes were *implemented*. This makes it possible to
@@ -142,7 +140,6 @@ with the potential to delight customers becomes, over time, a *must-be*
 basic need.[^2]
 
 ![](assets/img/Kano_model_showing_transition_over_time.png)
-
 *(Description of how attributes values change over time in the Kano
 model. (Source:
 [Craigwbrown/Wikipedia](https://commons.wikimedia.org/wiki/File:Kano_model_showing_transition_over_time.png).))*
@@ -173,8 +170,8 @@ pair:[^3]
 2.  The **dysfunctional** (or *negative*) question measures how
     respondents feel if the attribute is *not* present
 
-![Example of a question pair measuring a single attribute. (Source:
-Berger et al. 1993, 6.)](assets/img/Kano-question-example.png)
+![](assets/img/Kano-question-example.png) *(Example of a question pair
+measuring a single attribute. (Source: Berger et al. 1993, 6.))*
 
 Beside question pairs, *Kano questionnaires* also use standard answer
 options. In early studies, these were often the English translation of
@@ -184,10 +181,9 @@ of both theoretical and practical considerations when designing *Kano
 questionnaires*, Berger et al. (1993) discuss a number of different
 answer sets (pp. 25-7), three of which are shown below.
 
-![](assets/img/Kano-questionnaire-answer-sets.png)
-
-*(Different answer sets used in Kano questionnaires. (Source: Adapted
-from Berger et al. 1993, 25–27.))*
+![](assets/img/Kano-questionnaire-answer-sets.png) *(Different answer
+sets used in Kano questionnaires. (Source: Adapted from Berger et al.
+1993, 25–27.))*
 
 They conclude that the choice of answer sets matters, which means that
 results may change depending on how answer options are worded. For
@@ -249,9 +245,9 @@ methodology as a three-step process that you see here, ranging from
 (e.g., Berger et al. 1993, 6; Witell and Löfgren 2007, 59; Löfgren and
 Witell 2008, 61):
 
-![Kano methodology: Example of the steps involved in classifying data
-from a Kano questionnaire. (Source: Berger et al. 1993,
-6.)](assets/img/Kano-analysis-example.png)
+![](assets/img/Kano-analysis-example.png) *(Kano methodology: Example of
+the steps involved in classifying data from a Kano questionnaire.
+(Source: Berger et al. 1993, 6.))*
 
 Another appeal of the *Kano model* is the so-called **Kano graph**,
 which is often used to communicate and discuss results from a Kano study
