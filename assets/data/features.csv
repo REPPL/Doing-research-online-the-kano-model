@@ -1,0 +1,12 @@
+ID,Label,Category,Question
+F1_,Anonymous storage,Storage,"If your funds are stored in a way that does not have to be linked to your identity, how do you feel?"
+F2_,Convenient storage,Storage,"If it is easy to store funds, how do you feel?"
+F3_,Reliable storage,Storage,"If you can access your funds wherever and whenever you want, how do you feel?"
+F4_,Secure storage,Storage,"If it is guaranteed that no one else can access your funds without your permission, how do you feel?"
+F5_,Transparent storage,Storage,"If relevant information is always easy to find, how do you feel?"
+F6_,Anonymous transfers,Transfers,"If you can transfer funds without having to link that transaction to your name, how do you feel?"
+F7_,Convenient transfers,Transfers,"If it is easy to transfer funds, how do you feel?"
+F8_,Reliable transfers,Transfers,"If you can transfer your funds wherever and whenever you want, how do you feel?"
+F9_,Responsive transfers,Transfers,"If funds are transferred almost instantaneous, how do you feel?"
+F10_,Secure transfers,Transfers,"If it is guaranteed that no one else can manipulate transfers you have initiated, how do you feel?"
+F11_,Transparent transfers,Transfers,"If relevant information on how to make transfers is always easy to find, how do you feel?"
